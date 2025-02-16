@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContactData>
+    <Group Id="1" Name="Default" Ring="Auto" Description="">
+        <Contact Id="1" Line="0" DisplayName="TU" OfficeNumber="" MobileNumber="" OtherNumber="001" Ring="Auto" />
+        <Contact Id="2" Line="0" DisplayName="DIREKTUR" OfficeNumber="" MobileNumber="" OtherNumber="002" Ring="Auto" />
+        <Contact Id="3" Line="0" DisplayName="KEUANGAN" OfficeNumber="" MobileNumber="" OtherNumber="003" Ring="Auto" />
+        <Contact Id="4" Line="0" DisplayName="PKRS" OfficeNumber="" MobileNumber="" OtherNumber="004" Ring="Auto" />
+        <Contact Id="5" Line="0" DisplayName="BID.YANNONMED" OfficeNumber="" MobileNumber="" OtherNumber="005" Ring="Auto" />
+        <Contact Id="6" Line="0" DisplayName="BID.KEPERAWATAN KEBIDANAN" OfficeNumber="" MobileNumber="" OtherNumber="006" Ring="Auto" />
+        <Contact Id="7" Line="0" DisplayName="BID.YANMED" OfficeNumber="" MobileNumber="" OtherNumber="007" Ring="Auto" />
+        <Contact Id="8" Line="0" DisplayName="REKAM MEDIK" OfficeNumber="" MobileNumber="" OtherNumber="008" Ring="Auto" />
+        <Contact Id="9" Line="0" DisplayName="APOTIK RAWAT INAP" OfficeNumber="" MobileNumber="" OtherNumber="009" Ring="Auto" />
+        <Contact Id="10" Line="0" DisplayName="APOTIK RAWAT JALAN" OfficeNumber="" MobileNumber="" OtherNumber="010" Ring="Auto" />
+        <Contact Id="11" Line="0" DisplayName="KASIR" OfficeNumber="" MobileNumber="" OtherNumber="011" Ring="Auto" />
+        <Contact Id="12" Line="0" DisplayName="LOKET" OfficeNumber="" MobileNumber="" OtherNumber="012" Ring="Auto" />
+        <Contact Id="13" Line="0" DisplayName="POLI JIWA" OfficeNumber="" MobileNumber="" OtherNumber="013" Ring="Auto" />
+        <Contact Id="14" Line="0" DisplayName="POLI DOTS" OfficeNumber="" MobileNumber="" OtherNumber="014" Ring="Auto" />
+        <Contact Id="15" Line="0" DisplayName="POLI THT" OfficeNumber="" MobileNumber="" OtherNumber="015" Ring="Auto" />
+        <Contact Id="16" Line="0" DisplayName="POLI PENYAKIT DALAM" OfficeNumber="" MobileNumber="" OtherNumber="016" Ring="Auto" />
+        <Contact Id="17" Line="0" DisplayName="POLI UMUM" OfficeNumber="" MobileNumber="" OtherNumber="017" Ring="Auto" />
+        <Contact Id="18" Line="0" DisplayName="POLI BEDAH" OfficeNumber="" MobileNumber="" OtherNumber="018" Ring="Auto" />
+        <Contact Id="19" Line="0" DisplayName="POLI KANDUNGAN" OfficeNumber="" MobileNumber="" OtherNumber="019" Ring="Auto" />
+        <Contact Id="20" Line="0" DisplayName="POLI ANAK" OfficeNumber="" MobileNumber="" OtherNumber="020" Ring="Auto" />
+        <Contact Id="21" Line="0" DisplayName="POLI GIGI" OfficeNumber="" MobileNumber="" OtherNumber="021" Ring="Auto" />
+        <Contact Id="22" Line="0" DisplayName="SATPAM" OfficeNumber="" MobileNumber="" OtherNumber="022" Ring="Auto" />
+        <Contact Id="23" Line="0" DisplayName="GUDANG FARMASI" OfficeNumber="" MobileNumber="" OtherNumber="023" Ring="Auto" />
+        <Contact Id="24" Line="0" DisplayName="RADIOLOGI" OfficeNumber="" MobileNumber="" OtherNumber="024" Ring="Auto" />
+        <Contact Id="25" Line="0" DisplayName="IGD" OfficeNumber="" MobileNumber="" OtherNumber="025" Ring="Auto" />
+        <Contact Id="26" Line="0" DisplayName="PONEK" OfficeNumber="" MobileNumber="" OtherNumber="026" Ring="Auto" />
+        <Contact Id="27" Line="0" DisplayName="BEDAH SENTRAL" OfficeNumber="" MobileNumber="" OtherNumber="027" Ring="Auto" />
+        <Contact Id="28" Line="0" DisplayName="RPD 3" OfficeNumber="" MobileNumber="" OtherNumber="028" Ring="Auto" />
+        <Contact Id="29" Line="0" DisplayName="CSSD" OfficeNumber="" MobileNumber="" OtherNumber="029" Ring="Auto" />
+        <Contact Id="30" Line="0" DisplayName="LABORATORIUM" OfficeNumber="" MobileNumber="" OtherNumber="030" Ring="Auto" />
+        <Contact Id="31" Line="0" DisplayName="ICU" OfficeNumber="" MobileNumber="" OtherNumber="031" Ring="Auto" />
+        <Contact Id="32" Line="0" DisplayName="RAWAT INAP BEDAH" OfficeNumber="" MobileNumber="" OtherNumber="032" Ring="Auto" />
+        <Contact Id="33" Line="0" DisplayName="RPD 1 2" OfficeNumber="" MobileNumber="" OtherNumber="033" Ring="Auto" />
+        <Contact Id="34" Line="0" DisplayName="IPSRS" OfficeNumber="" MobileNumber="" OtherNumber="034" Ring="Auto" />
+        <Contact Id="35" Line="0" DisplayName="INSTALASI GIZI" OfficeNumber="" MobileNumber="" OtherNumber="035" Ring="Auto" />
+        <Contact Id="36" Line="0" DisplayName="KEBIDANAN" OfficeNumber="" MobileNumber="" OtherNumber="036" Ring="Auto" />
+        <Contact Id="37" Line="0" DisplayName="PERINA" OfficeNumber="" MobileNumber="" OtherNumber="037" Ring="Auto" />
+        <Contact Id="38" Line="0" DisplayName="FISIOTERAPI" OfficeNumber="" MobileNumber="" OtherNumber="038" Ring="Auto" />
+        <Contact Id="39" Line="0" DisplayName="RAWAT INAP ANAK" OfficeNumber="" MobileNumber="" OtherNumber="039" Ring="Auto" />
+        <Contact Id="40" Line="0" DisplayName="LAUNDRY" OfficeNumber="" MobileNumber="" OtherNumber="040" Ring="Auto" />
+        <Contact Id="41" Line="0" DisplayName="IPAL" OfficeNumber="" MobileNumber="" OtherNumber="041" Ring="Auto" />
+        <Contact Id="42" Line="0" DisplayName="PINERE" OfficeNumber="" MobileNumber="" OtherNumber="042" Ring="Auto" />
+    </Group>
+</ContactData>
