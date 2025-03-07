@@ -2,8 +2,8 @@
 <ContactData>
     <Group Id="1" Name="Default" Ring="Auto" Description="">
         <Contact Id="1" Line="0" DisplayName="TU" OfficeNumber="" MobileNumber="" OtherNumber="001" Ring="Auto" />
-        <Contact Id="2" Line="0" DisplayName="DIREKTUR" OfficeNumber="" MobileNumber="" OtherNumber="002" Ring="Auto" />
-        <Contact Id="3" Line="0" DisplayName="KEUANGAN" OfficeNumber="" MobileNumber="" OtherNumber="003" Ring="Auto" />
+        <Contact Id="2" Line="0" DisplayName="KEUANGAN" OfficeNumber="" MobileNumber="" OtherNumber="002" Ring="Auto" />
+        <Contact Id="3" Line="0" DisplayName="DIREKTUR" OfficeNumber="" MobileNumber="" OtherNumber="003" Ring="Auto" />
         <Contact Id="4" Line="0" DisplayName="PKRS" OfficeNumber="" MobileNumber="" OtherNumber="004" Ring="Auto" />
         <Contact Id="5" Line="0" DisplayName="BID.YANNONMED" OfficeNumber="" MobileNumber="" OtherNumber="005" Ring="Auto" />
         <Contact Id="6" Line="0" DisplayName="BID.KEPERAWATAN KEBIDANAN" OfficeNumber="" MobileNumber="" OtherNumber="006" Ring="Auto" />
